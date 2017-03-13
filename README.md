@@ -14,4 +14,4 @@ Python Image Library(PIL)
   - < output_file >       Filename to output to
   - < course_file >       Name of orienteering course file
   
-  ex. 'python OrienteeringSearch.py 'terrain.png', 'mpp.txt', 'result.png', 'brownCourse.txt'
+  ex. `python OrienteeringSearch.py 'terrain.png', 'mpp.txt', 'result.png', 'brownCourse.txt'`
