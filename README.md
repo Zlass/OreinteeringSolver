@@ -13,3 +13,5 @@ Python Image Library(PIL)
   - < map_heights_file >  Name of height values to use
   - < output_file >       Filename to output to
   - < course_file >       Name of orienteering course file
+  
+  ex. 'python OrienteeringSearch.py 'terrain.png', 'mpp.txt', 'result.png', 'brownCourse.txt'
